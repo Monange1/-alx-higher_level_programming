@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python2
 """
 Fetches https://intranet.hbtn.io/status
 use the package urllib
